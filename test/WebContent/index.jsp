@@ -10,8 +10,8 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
-	<div class="container panel panel-info">
-		<h3 class="panel-heading">ver-1</h3>
+	<div class="container panel panel-danger">
+		<h3 class="panel-heading">ver-2</h3>
 		 
 	</div>
 	
